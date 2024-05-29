@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://log2025.logconference.org/sitemap.xml
