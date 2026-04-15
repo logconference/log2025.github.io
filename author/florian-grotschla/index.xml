@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florian Grötschla | Learning on Graphs Conference</title>
+    <link>https://logconference.github.io/author/florian-grotschla/</link>
+      <atom:link href="https://logconference.github.io/author/florian-grotschla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Grötschla</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://logconference.github.io/author/florian-grotschla/avatar_hu68fd7f1d193730097b001dfd3062bc6f_8914_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Florian Grötschla</title>
+      <link>https://logconference.github.io/author/florian-grotschla/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Herbst | Learning on Graphs Conference</title>
+    <link>https://logconference.github.io/author/daniel-herbst/</link>
+      <atom:link href="https://logconference.github.io/author/daniel-herbst/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Herbst</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://logconference.github.io/author/daniel-herbst/avatar_hu2f823c90d426b37570094898f09ce716_16971_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Daniel Herbst</title>
+      <link>https://logconference.github.io/author/daniel-herbst/</link>
+    </image>
+    
+  </channel>
+</rss>
